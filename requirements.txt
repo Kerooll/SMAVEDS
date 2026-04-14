@@ -1,0 +1,7 @@
+python-can
+rtlsdr
+pybluez
+numpy
+scipy
+json
+threading
